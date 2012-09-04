@@ -14,5 +14,5 @@ How the data was created:
 
 Download lists here
 
-* https://raw.github.com/saintsjd/sic4-list/master/sic88_97.xls
-* https://raw.github.com/saintsjd/sic4-list/master/sic88_97.csv
+* Excel: https://raw.github.com/saintsjd/sic4-list/master/sic88_97.xls
+* CSV: https://raw.github.com/saintsjd/sic4-list/master/sic88_97.csv
