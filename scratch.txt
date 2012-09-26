@@ -1,0 +1,1422 @@
+Industry Group 011: Cash Grains
+·	0111 Wheat
+·	0112 Rice
+·	0115 Corn
+·	0116 Soybeans
+·	0119 Cash Grains, Not Elsewhere Classified
+Industry Group 013: Field Crops, Except Cash Grains
+·	0131 Cotton
+·	0132 Tobacco
+·	0133 Sugarcane and Sugar Beets
+·	0134 Irish Potatoes
+·	0139 Field Crops, Except Cash Grains, Not Elsewhere Classified
+Industry Group 016: Vegetables And Melons
+·	0161 Vegetables and Melons
+Industry Group 017: Fruits And Tree Nuts
+·	0171 Berry Crops
+·	0172 Grapes
+·	0173 Tree Nuts
+·	0174 Citrus Fruits
+·	0175 Deciduous Tree Fruits
+·	0179 Fruits and Tree Nuts, Not Elsewhere Classified
+Industry Group 018: Horticultural Specialties
+·	0181 Ornamental Floriculture and Nursery Products
+·	0182 Food Crops Grown Under Cover
+Industry Group 019: General Farms, Primarily Crop
+·	0191 General Farms, Primarily Crop
+Industry Group 021: Livestock, Except Dairy And Poultry
+·	0211 Beef Cattle Feedlots
+·	0212 Beef Cattle, Except Feedlots
+·	0213 Hogs
+·	0214 Sheep and Goats
+·	0219 General Livestock, Except Dairy and Poultry
+Industry Group 024: Dairy Farms
+·	0241 Dairy Farms
+Industry Group 025: Poultry And Eggs
+·	0251 Broiler, Fryer, and Roaster Chickens
+·	0252 Chicken Eggs
+·	0253 Turkeys and Turkey Eggs
+·	0254 Poultry Hatcheries
+·	0259 Poultry and Eggs, Not Elsewhere Classified
+Industry Group 027: Animal Specialties
+·	0271 Fur-Bearing Animals and Rabbits
+·	0272 Horses and Other Equines
+·	0273 Animal Aquaculture
+·	0279 Animal Specialties, Not Elsewhere Classified
+Industry Group 029: General Farms, Primarily Livestock And Animal
+·	0291 General Farms, Primarily Livestock and Animal Specialties
+Industry Group 071: Soil Preparation Services
+·	0711 Soil Preparation Services
+Industry Group 072: Crop Services
+·	0721 Crop Planting, Cultivating, and Protecting
+·	0722 Crop Harvesting, Primarily by Machine
+·	0723 Crop Preparation Services for Market, Except Cotton Ginning
+·	0724 Cotton Ginning
+Industry Group 074: Veterinary Services
+·	0741 Veterinary Services for Livestock
+·	0742 Veterinary Services for Animal Specialties
+Industry Group 075: Animal Services, Except Veterinary
+·	0751 Livestock Services, Except Veterinary
+·	0752 Animal Specialty Services, Except Veterinary
+Industry Group 076: Farm Labor And Management Services
+·	0761 Farm Labor Contractors and Crew Leaders
+·	0762 Farm Management Services
+Industry Group 078: Landscape And Horticultural Services
+·	0781 Landscape Counseling and Planning
+·	0782 Lawn and Garden Services
+·	0783 Ornamental Shrub and Tree Services
+Industry Group 081: Timber Tracts
+·	0811 Timber Tracts
+Industry Group 083: Forest Nurseries And Gathering Of Forest
+·	0831 Forest Nurseries and Gathering of Forest Products
+Industry Group 085: Forestry Services
+·	0851 Forestry Services
+Industry Group 091: Commercial Fishing
+·	0912 Finfish
+·	0913 Shellfish
+·	0919 Miscellaneous Marine Products
+Industry Group 092: Fish Hatcheries And Preserves
+·	0921 Fish Hatcheries and Preserves
+Industry Group 097: Hunting And Trapping, And Game Propagation
+·	0971 Hunting and Trapping, and Game Propagation
+Industry Group 101: Iron Ores
+·	1011 Iron Ores
+Industry Group 102: Copper Ores
+·	1021 Copper Ores
+Industry Group 103: Lead And Zinc Ores
+·	1031 Lead and Zinc Ores
+Industry Group 104: Gold And Silver Ores
+·	1041 Gold Ores
+·	1044 Silver Ores
+Industry Group 106: Ferroalloy Ores, Except Vanadium
+·	1061 Ferroalloy Ores, Except Vanadium
+Industry Group 108: Metal Mining Services
+·	1081 Metal Mining Services
+Industry Group 109: Miscellaneous Metal Ores
+·	1094 Uranium-Radium-Vanadium Ores
+·	1099 Miscellaneous Metal Ores, Not Elsewhere Classified
+Industry Group 122: Bituminous Coal And Lignite Mining
+·	1221 Bituminous Coal and Lignite Surface Mining
+·	1222 Bituminous Coal Underground Mining
+Industry Group 123: Anthracite Mining
+·	1231 Anthracite Mining
+Industry Group 124: Coal Mining Services
+·	1241 Coal Mining Services
+Industry Group 131: Crude Petroleum And Natural Gas
+·	1311 Crude Petroleum and Natural Gas
+Industry Group 132: Natural Gas Liquids
+·	1321 Natural Gas Liquids
+Industry Group 138: Oil And Gas Field Services
+·	1381 Drilling Oil and Gas Wells
+·	1382 Oil and Gas Field Exploration Services
+·	1389 Oil and Gas Field Services, Not Elsewhere Classified
+Industry Group 141: Dimension Stone
+·	1411 Dimension Stone
+Industry Group 142: Crushed And Broken Stone, Including Riprap
+·	1422 Crushed and Broken Limestone
+·	1423 Crushed and Broken Granite
+·	1429 Crushed and Broken Stone, Not Elsewhere Classified
+Industry Group 144: Sand And Gravel
+·	1442 Construction Sand and Gravel
+·	1446 Industrial Sand
+Industry Group 145: Clay, Ceramic, And Refractory Minerals
+·	1455 Kaolin and Ball Clay
+·	1459 Clay, Ceramic, and Refractory Minerals, Not Elsewhere Classified
+Industry Group 147: Chemical And Fertilizer Mineral Mining
+·	1474 Potash, Soda, and Borate Minerals
+·	1475 Phosphate Rock
+·	1479 Chemical and Fertilizer Mineral Mining, Not Elsewhere Classified
+Industry Group 148: Nonmetallic Minerals Services, Except Fuels
+·	1481 Nonmetallic Minerals Services, Except Fuels
+Industry Group 149: Miscellaneous Nonmetallic Minerals, Except
+·	1499 Miscellaneous Nonmetallic Minerals, Except Fuels
+Industry Group 152: General Building Contractors-residential
+·	1521 General Contractors-Single-Family Houses
+·	1522 General Contractors-Residential Buildings, Other Than Single-Family
+Industry Group 153: Operative Builders
+·	1531 Operative Builders
+Industry Group 154: General Building Contractors-nonresidential
+·	1541 General Contractors-Industrial Buildings and Warehouses
+·	1542 General Contractors-Nonresidential Buildings, Other than Industrial Buildings and Warehouses
+Industry Group 161: Highway And Street Construction, Except
+·	1611 Highway and Street Construction, Except Elevated Highways
+Industry Group 162: Heavy Construction, Except Highway And Street
+·	1622 Bridge, Tunnel, and Elevated Highway Construction
+·	1623 Water, Sewer, Pipeline, and Communications and Power Line Construction
+·	1629 Heavy Construction, Not Elsewhere Classified
+Industry Group 171: Plumbing, Heating And Air-conditioning
+·	1711 Plumbing, Heating and Air-Conditioning
+Industry Group 172: Painting And Paper Hanging
+·	1721 Painting and Paper Hanging
+Industry Group 173: Electrical Work
+·	1731 Electrical Work
+Industry Group 174: Masonry, Stonework, Tile Setting, And Plastering
+·	1741 Masonry, Stone Setting, and Other Stone Work
+·	1742 Plastering, Drywall, Acoustical, and Insulation Work
+·	1743 Terrazzo, Tile, Marble, and Mosaic Work
+Industry Group 175: Carpentry And Floor Work
+·	1751 Carpentry Work
+·	1752 Floor Laying and Other Floor Work, Not Elsewhere Classified
+Industry Group 176: Roofing, Siding, And Sheet Metal Work
+·	1761 Roofing, Siding, and Sheet Metal Work
+Industry Group 177: Concrete Work
+·	1771 Concrete Work
+Industry Group 178: Water Well Drilling
+·	1781 Water Well Drilling
+Industry Group 179: Miscellaneous Special Trade Contractors
+·	1791 Structural Steel Erection
+·	1793 Glass and Glazing Work
+·	1794 Excavation Work
+·	1795 Wrecking and Demolition Work
+·	1796 Installation or Erection of Building Equipment, Not Elsewhere
+·	1799 Special Trade Contractors, Not Elsewhere Classified
+
+Industry Group 201: Meat Products
+·	2011 Meat Packing Plants
+·	2013 Sausages and Other Prepared Meat Products
+·	2015 Poultry Slaughtering and Processing
+Industry Group 202: Dairy Products
+·	2021 Creamery Butter
+·	2022 Natural, Processed, and Imitation Cheese
+·	2023 Dry, Condensed, and Evaporated Dairy Products
+·	2024 Ice Cream and Frozen Desserts
+·	2026 Fluid Milk
+Industry Group 203: Canned, Frozen, And Preserved Fruits, Vegetables, and Food Specialties
+·	2032 Canned Specialties
+·	2033 Canned Fruits, Vegetables, Preserves, Jams, and Jellies
+·	2034 Dried and Dehydrated Fruits, Vegetables, and Soup Mixes
+·	2035 Pickled Fruits and Vegetables, Vegetable Sauces and Seasonings, and Salad Dressings
+·	2037 Frozen Fruits, Fruit Juices, and Vegetables
+·	2038 Frozen Specialties, Not Elsewhere Classified
+Industry Group 204: Grain Mill Products
+·	2041 Flour and Other Grain Mill Products
+·	2043 Cereal Breakfast Foods
+·	2044 Rice Milling
+·	2045 Prepared Flour Mixes and Doughs
+·	2046 Wet Corn Milling
+·	2047 Dog and Cat Food
+·	2048 Prepared Feed and Feed Ingredients for Animals and Fowls, Except Dogs and Cats
+Industry Group 205: Bakery Products
+·	2051 Bread and Other Bakery Products, Except Cookies and Crackers
+·	2052 Cookies and Crackers
+·	2053 Frozen Bakery Products, Except Bread
+Industry Group 206: Sugar And Confectionery Products
+·	2061 Cane Sugar, Except Refining
+·	2062 Cane Sugar Refining
+·	2063 Beet Sugar
+·	2064 Candy and Other Confectionery Products
+·	2066 Chocolate and Cocoa Products
+·	2067 Chewing Gum
+·	2068 Salted and Roasted Nuts and Seeds
+Industry Group 207: Fats And Oils
+·	2074 Cottonseed Oil Mills
+·	2075 Soybean Oil Mills
+·	2076 Vegetable Oil Mills, Except Corn, Cottonseed, and Soybean
+·	2077 Animal and Marine Fats and Oils
+·	2079 Shortening, Table Oils, Margarine, and Other Edible Fats and Oils, Not Elsewhere Classified
+Industry Group 208: Beverages
+·	2082 Malt Beverages
+·	2083 Malt
+·	2084 Wines, Brandy, and Brandy Spirits
+·	2085 Distilled and Blended Liquors
+·	2086 Bottled and Canned Soft Drinks and Carbonated Waters
+·	2087 Flavoring Extracts and Flavoring Syrups, Not Elsewhere Classified
+Industry Group 209: Miscellaneous Food Preparations And Kindred
+·	2091 Canned and Cured Fish and Seafoods
+·	2092 Prepared Fresh or Frozen Fish and Seafoods
+·	2095 Roasted Coffee
+·	2096 Potato Chips, Corn Chips, and Similar Snacks
+·	2097 Manufactured Ice
+·	2098 Macaroni, Spaghetti, Vermicelli, and Noodles
+·	2099 Food Preparations, Not Elsewhere Classified
+Industry Group 211: Cigarettes
+·	2111 Cigarettes
+Industry Group 212: Cigars
+·	2121 Cigars
+Industry Group 213: Chewing And Smoking Tobacco And Snuff
+·	2131 Chewing and Smoking Tobacco and Snuff
+Industry Group 214: Tobacco Stemming And Redrying
+·	2141 Tobacco Stemming and Redrying
+Industry Group 221: Broadwoven Fabric Mills, Cotton
+·	2211 Broadwoven Fabric Mills, Cotton
+Industry Group 222: Broadwoven Fabric Mills, Manmade Fiber And Silk
+·	2221 Broadwoven Fabric Mills, Manmade Fiber and Silk
+Industry Group 223: Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)
+·	2231 Broadwoven Fabric Mills, Wool (Including Dyeing and Finishing)
+Industry Group 224: Narrow Fabric And Other Smallwares Mills, Cotton, Wool, Silk, and Manmade Fiber
+·	2241 Narrow Fabric and Other Smallware Mills: Cotton, Wool, Silk, and Manmade Fiber
+Industry Group 225: Knitting Mills
+·	2251 Women's Full-Length and Knee-Length Hosiery, Except Socks
+·	2252 Hosiery, Not Elsewhere Classified
+·	2253 Knit Outerwear Mills
+·	2254 Knit Underwear and Nightwear Mills
+·	2257 Weft Knit Fabric Mills
+·	2258 Lace and Warp Knit Fabric Mills
+·	2259 Knitting Mills, Not Elsewhere Classified
+Industry Group 226: Dyeing And Finishing Textiles, Except Wool Fabrics
+·	2261 Finishers of Broadwoven Fabrics of Cotton
+·	2262 Finishers of Broadwoven Fabrics of Manmade Fiber and Silk
+·	2269 Finishers of Textiles, Not elsewhere Classified
+Industry Group 227: Carpets And Rugs
+·	2273 Carpets and Rugs
+Industry Group 228: Yarn And Thread Mills
+·	2281 Yarn Spinning Mills
+·	2282 Yarn Texturizing, Throwing, Twisting, and Winding Mills
+·	2284 Thread Mills
+Industry Group 229: Miscellaneous Textile Goods
+·	2295 Coated Fabrics, Not Rubberized
+·	2296 Tire Cord and Fabrics
+·	2297 Non-woven Fabrics
+·	2298 Cordage and Twine
+·	2299 Textile goods, Not Elsewhere Classified
+Industry Group 231: Men's And Boys' Suits, Coats, And Overcoats
+·	2311 Men's and Boys' Suits, Coats, and Overcoats
+Industry Group 232: Men's And Boys' Furnishings, Work Clothing, And Allied Garments
+·	2321 Men's and Boys' Shirts, Except Work Shirts
+·	2322 Men's and Boys' Underwear and Nightwear
+·	2323 Men's and Boys' Neckwear
+·	2325 Men's and Boys' Separate Trousers and Slacks
+·	2326 Men's and Boys' Work Clothing
+·	2329 Men's and Boys' Clothing, Not Elsewhere Classified
+Industry Group 233: Women's, Misses', And Juniors' Outerwear
+·	2331 Women's, Misses', and Juniors' Blouses and Shirts
+·	2335 Women's, Misses', and Juniors' Dresses
+·	2337 Women's, Misses', and Juniors' Suits, Skirts, and Coats
+·	2339 Women's, Misses', and Juniors' Outerwear, Not Elsewhere Classified
+Industry Group 234: Women's, Misses', Children's, And Infants'
+·	2341 Women's, Misses', Children's, and Infants' Underwear and Nightwear
+·	2342 Brassieres, Girdles, and Allied Garments
+Industry Group 235: Hats, Caps, And Millinery
+·	2353 Hats, Caps, and Millinery
+Industry Group 236: Girls', Children's, And Infants' Outerwear
+·	2361 Girls', Children's, and Infants' Dresses, Blouses, and Shirts
+·	2369 Girls', Children's, and Infants' Outerwear, Not Elsewhere Classified
+Industry Group 237: Fur Goods
+·	2371 Fur Goods
+Industry Group 238: Miscellaneous Apparel And Accessories
+·	2381 Dress and Work Gloves, Except Knit and All-Leather
+·	2384 Robes and Dressing Gowns
+·	2385 Waterproof Outerwear
+·	2386 Leather and Sheep-Lined Clothing
+·	2387 Apparel belts
+·	2389 Apparel and Accessories, Not Elsewhere Classified
+Industry Group 239: Miscellaneous Fabricated Textile Products
+·	2391 Curtains and Draperies
+·	2392 House furnishing, Except Curtains and Draperies
+·	2393 Textile Bags
+·	2394 Canvas and Related Products
+·	2395 Pleating, Decorative and Novelty Stitching, and Tucking for the Trade
+·	2396 Automotive Trimmings, Apparel Findings, and Related Products
+·	2397 Schiffli Machine Embroideries
+·	2399 Fabricated Textile Products, Not Elsewhere Classified
+Industry Group 241: Logging
+·	2411 Logging
+Industry Group 242: Sawmills And Planing Mills
+·	2421 Sawmills and Planing Mills, General
+·	2426 Hardwood Dimension and Flooring Mills
+·	2429 Special Product Sawmills, Not Elsewhere Classified
+Industry Group 243: Millwork, Veneer, Plywood, And Structural Wood
+·	2431 Millwork
+·	2434 Wood Kitchen Cabinets
+·	2435 Hardwood Veneer and Plywood
+·	2436 Softwood Veneer and Plywood
+·	2439 Structural Wood Members, Not Elsewhere Classified
+Industry Group 244: Wood Containers
+·	2441 Nailed and Lock Corner Wood Boxes and Shook
+·	2448 Wood Pallets and Skids
+·	2449 Wood Containers, Not Elsewhere Classified
+Industry Group 245: Wood Buildings And Mobile Homes
+·	2451 Mobile Homes
+·	2452 Prefabricated Wood Buildings and Components
+Industry Group 249: Miscellaneous Wood Products
+·	2491 Wood Preserving
+·	2493 Reconstituted Wood Products
+·	2499 Wood Products, Not Elsewhere Classified
+Industry Group 251: Household Furniture
+·	2511 Wood Household Furniture, Except Upholstered
+·	2512 Wood Household Furniture, Upholstered
+·	2514 Metal Household Furniture
+·	2515 Mattresses, Foundations, and Convertible Beds
+·	2517 Wood Television, Radio, Phonograph, and Sewing Machine Cabinets
+·	2519 Household Furniture, Not Elsewhere Classified
+Industry Group 252: Office Furniture
+·	2521 Wood Office Furniture
+·	2522 Office Furniture, Except Wood
+Industry Group 253: Public Building And Related Furniture
+·	2531 Public Building and Related Furniture
+Industry Group 254: Partitions, Shelving, Lockers, And Office And
+·	2541 Wood Office and Store Fixtures, Partitions, Shelving, and Lockers
+·	2542 Office and Store Fixtures, Partitions, Shelving, and Lockers, Except Wood
+Industry Group 259: Miscellaneous Furniture And Fixtures
+·	2591 Drapery Hardware and Window Blinds and Shades
+·	2599 Furniture and Fixtures, Not Elsewhere Classified
+Industry Group 261: Pulp Mills
+·	2611 Pulp Mills
+Industry Group 262: Paper Mills
+·	2621 Paper Mills
+Industry Group 263: Paperboard Mills
+·	2631 Paperboard Mills
+Industry Group 265: Paperboard Containers And Boxes
+·	2652 Setup Paperboard Boxes
+·	2653 Corrugated and Solid Fiber Boxes
+·	2655 Fiber Cans, Tubes, Drums, and Similar Products
+·	2656 Sanitary Food Containers, Except Folding
+·	2657 Folding Paperboard Boxes, Including Sanitary
+Industry Group 267: Converted Paper And Paperboard Products, Except
+·	2671 Packaging Paper and Plastics Film, Coated and Laminated
+·	2672 Coated and Laminated Paper, Not Elsewhere Classified
+·	2673 Plastics, Foil, and Coated Paper Bags
+·	2674 Uncoated Paper and Multiwall Bags
+·	2675 Die-Cut Paper and Paperboard and Cardboard
+·	2676 Sanitary Paper Products
+·	2677 Envelopes
+·	2678 Stationery, Tablets, and Related Products
+·	2679 Converted Paper and Paperboard Products, Not Elsewhere Classified
+Industry Group 271: Newspapers: Publishing, Or Publishing And Printing
+·	2711 Newspapers: Publishing, or Publishing and Printing
+Industry Group 272: Periodicals: Publishing, Or Publishing And Printing
+·	2721 Periodicals: Publishing, or Publishing and Printing
+Industry Group 273: Books
+·	2731 Books: Publishing, or Publishing and Printing
+·	2732 Book Printing
+Industry Group 274: Miscellaneous Publishing
+·	2741 Miscellaneous Publishing
+Industry Group 275: Commercial Printing
+·	2752 Commercial Printing, Lithographic
+·	2754 Commercial Printing, Gravure
+·	2759 Commercial Printing, Not Elsewhere Classified
+Industry Group 276: Manifold Business Forms
+·	2761 Manifold Business Forms
+Industry Group 277: Greeting Cards
+·	2771 Greeting Cards
+Industry Group 278: Blankbooks, Looseleaf Binders, And Bookbinding
+·	2782 Blankbooks, Looseleaf Binders and Devices
+·	2789 Bookbinding and Related Work
+Industry Group 279: Service Industries For The Printing Trade
+·	2791 Typesetting
+·	2796 Platemaking and Related Services
+Industry Group 281: Industrial Inorganic Chemicals
+·	2812 Alkalies and Chlorine
+·	2813 Industrial Gases
+·	2816 Inorganic Pigments
+·	2819 Industrial Inorganic Chemicals, Not Elsewhere Classified
+Industry Group 282: Plastics Materials And Synthetic Resins, Synthetic
+·	2821 Plastics Materials, Synthetic Resins, and Nonvulcanizable Elastomers
+·	2822 Synthetic Rubber (Vulcanizable Elastomers)
+·	2823 Cellulosic Manmade Fibers
+·	2824 Manmade Organic Fibers, Except Cellulosic
+Industry Group 283: Drugs
+·	2833 Medicinal Chemicals and Botanical Products
+·	2834 Pharmaceutical Preparations
+·	2835 In Vitro and In Vivo Diagnostic Substances
+·	2836 Biological Products, Except Diagnostic Substances
+Industry Group 284: Soap, Detergents, And Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations
+·	2841 Soap and Other Detergents, Except Specialty Cleaners
+·	2842 Specialty Cleaning, Polishing, and Sanitation Preparations
+·	2843 Surface Active Agents, Finishing Agents, Sulfonated Oils, and Assistants
+·	2844 Perfumes, Cosmetics, and Other Toilet Preparations
+Industry Group 285: Paints, Varnishes, Lacquers, Enamels, And Allied
+·	2851 Paints, Varnishes, Lacquers, Enamels, and Allied Products
+Industry Group 286: Industrial Organic Chemicals
+·	2861 Gum and Wood Chemicals
+·	2865 Cyclic Organic Crudes and Intermediates, and Organic Dyes and Pigments
+·	2869 Industrial Organic Chemicals, Not Elsewhere Classified
+Industry Group 287: Agricultural Chemicals
+·	2873 Nitrogenous Fertilizers
+·	2874 Phosphatic Fertilizers
+·	2875 Fertilizers, Mixing Only
+·	2879 Pesticides and Agricultural Chemicals, Not Elsewhere Classified
+Industry Group 289: Miscellaneous Chemical Products
+·	2891 Adhesives and Sealants
+·	2892 Explosives
+·	2893 Printing Ink
+·	2895 Carbon Black
+·	2899 Chemicals and Chemical Preparations, Not Elsewhere Classified
+Industry Group 291: Petroleum Refining
+·	2911 Petroleum Refining
+Industry Group 295: Asphalt Paving And Roofing Materials
+·	2951 Asphalt Paving Mixtures and Blocks
+·	2952 Asphalt Felts and Coatings
+Industry Group 299: Miscellaneous Products Of Petroleum And Coal
+·	2992 Lubricating Oils and Greases
+·	2999 Products of Petroleum and Coal, Not Elsewhere Classified
+Industry Group 301: Tires And Inner Tubes
+·	3011 Tires and Inner Tubes
+Industry Group 302: Rubber And Plastics Footwear
+·	3021 Rubber and Plastics Footwear
+Industry Group 305: Gaskets, Packing, And Sealing Devices And Rubber
+·	3052 Rubber and Plastics Hose and Belting
+·	3053 Gaskets, Packing, and Sealing Devices
+Industry Group 306: Fabricated Rubber Products, Not Elsewhere
+·	3061 Molded, Extruded, and Lathe-Cut Mechanical Rubber Goods
+·	3069 Fabricated Rubber Products, Not Elsewhere Classified
+Industry Group 308: Miscellaneous Plastics Products
+·	3081 Unsupported Plastics Film and Sheet
+·	3082 Unsupported Plastics Profile Shapes
+·	3083 Laminated Plastics Plate, Sheet, and Profile Shapes
+·	3084 Plastics Pipe
+·	3085 Plastics Bottles
+·	3086 Plastics Foam Products
+·	3087 Custom Compounding of Purchased Plastics Resins
+·	3088 Plastics Plumbing Fixtures
+·	3089 Plastics Products, Not Elsewhere Classified
+Industry Group 311: Leather Tanning And Finishing
+·	3111 Leather Tanning and Finishing
+Industry Group 313: Boot And Shoe Cut Stock And Findings
+·	3131 Boot and Shoe Cut Stock and Findings
+Industry Group 314: Footwear, Except Rubber
+·	3142 House Slippers
+·	3143 Men's Footwear, Except Athletic
+·	3144 Women's Footwear, Except Athletic
+·	3149 Footwear, Except Rubber, Not Elsewhere Classified
+Industry Group 315: Leather Gloves And Mittens
+·	3151 Leather Gloves and Mittens
+Industry Group 316: Luggage
+·	3161 Luggage
+Industry Group 317: Handbags And Other Personal Leather Goods
+·	3171 Women's Handbags and Purses
+·	3172 Personal Leather Goods, Except Women's Handbags and Purses
+Industry Group 319: Leather Goods, Not Elsewhere Classified
+·	3199 Leather Goods, Not Elsewhere Classified
+Industry Group 321: Flat Glass
+·	3211 Flat Glass
+Industry Group 322: Glass And Glassware, Pressed Or Blown
+·	3221 Glass Containers
+·	3229 Pressed and Blown Glass and Glassware, Not Elsewhere Classified
+Industry Group 323: Glass Products, Made Of Purchased Glass
+·	3231 Glass Products, Made of Purchased Glass
+Industry Group 324: Cement, Hydraulic
+·	3241 Cement, Hydraulic
+Industry Group 325: Structural Clay Products
+·	3251 Brick and Structural Clay Tile
+·	3253 Ceramic Wall and Floor Tile
+·	3255 Clay Refractories
+·	3259 Structural Clay Products, Not Elsewhere Classified
+Industry Group 326: Pottery And Related Products
+·	3261 Vitreous China Plumbing Fixtures and China and Earthenware Fittings and Bathroom Accessories
+·	3262 Vitreous China Table and Kitchen Articles
+·	3263 Fine Earthenware (Whiteware) Table and Kitchen Articles
+·	3264 Porcelain Electrical Supplies
+·	3269 Pottery Products, Not Elsewhere Classified
+Industry Group 327: Concrete, Gypsum, And Plaster Products
+·	3271 Concrete Block and Brick
+·	3272 Concrete Products, Except Block and Brick
+·	3273 Ready-Mixed Concrete
+·	3274 Lime
+·	3275 Gypsum Products
+Industry Group 328: Cut Stone And Stone Products
+·	3281 Cut Stone and Stone Products
+Industry Group 329: Abrasive, Asbestos, And Miscellaneous
+·	3291 Abrasive Products
+·	3292 Asbestos Products
+·	3295 Minerals and Earths, Ground or Otherwise Treated
+·	3296 Mineral Wool
+·	3297 Nonclay Refractories
+·	3299 Nonmetallic Mineral Products, Not Elsewhere Classified
+Industry Group 331: Steel Works, Blast Furnaces, And Rolling And Finishing Mills
+·	3312 Steel Works, Blast Furnaces (Including Coke Ovens), and Rolling Mills
+·	3313 Electrometallurgical Products, Except Steel
+·	3315 Steel Wiredrawing and Steel Nails and Spikes
+·	3316 Cold-Rolled Steel Sheet, Strip, and Bars
+·	3317 Steel Pipe and Tubes
+Industry Group 332: Iron And Steel Foundries
+·	3321 Gray and Ductile Iron Foundries
+·	3322 Malleable Iron Foundries
+·	3324 Steel Investment Foundries
+·	3325 Steel Foundries, Not Elsewhere Classified
+Industry Group 333: Primary Smelting And Refining Of Nonferrous
+·	3331 Primary Smelting and Refining of Copper
+·	3334 Primary Production of Aluminum
+·	3339 Primary Smelting and Refining of Nonferrous Metals, Except Copper and Aluminum
+Industry Group 334: Secondary Smelting And Refining Of Nonferrous
+·	3341 Secondary Smelting and Refining of Nonferrous Metals
+Industry Group 335: Rolling, Drawing, And Extruding Of Nonferrous
+·	3351 Rolling, Drawing, and Extruding Of Copper
+·	3353 Aluminum Sheet, Plate, and Foil
+·	3354 Aluminum Extruded Products
+·	3355 Aluminum Rolling and Drawing, Not Elsewhere Classified
+·	3356 Rolling, Drawing, and Extruding of Nonferrous Metals, Except Copper and Aluminum
+·	3357 Drawing and Insulating of Nonferrous Wire
+Industry Group 336: Nonferrous Foundries (castings)
+·	3363 Aluminum Die-Castings
+·	3364 Nonferrous Die-Castings, Except Aluminum
+·	3365 Aluminum Foundries
+·	3366 Copper Foundries
+·	3369 Nonferrous Foundries, Except Aluminum and Copper
+Industry Group 339: Miscellaneous Primary Metal Products
+·	3398 Metal Heat Treating
+·	3399 Primary Metal Products, Not Elsewhere Classified
+Industry Group 341: Metal Cans And Shipping Containers
+·	3411 Metal Cans
+·	3412 Metal Shipping Barrels, Drums, Kegs, and Pails
+Industry Group 342: Cutlery, Handtools, And General Hardware
+·	3421 Cutlery
+·	3423 Hand and Edge Tools, Except Machine Tools and Handsaws
+·	3425 Saw Blades and Handsaws
+·	3429 Hardware, Not Elsewhere Classified
+Industry Group 343: Heating Equipment, Except Electric And Warm Air;
+·	3431 Enameled Iron and Metal Sanitary Ware
+·	3432 Plumbing Fixture Fittings and Trim
+·	3433 Heating Equipment, Except Electric and Warm Air Furnaces
+Industry Group 344: Fabricated Structural Metal Products
+·	3441 Fabricated Structural Metal
+·	3442 Metal Doors, Sash, Frames, Molding, and Trim Manufacturing
+·	3443 Fabricated Plate Work (Boiler Shops)
+·	3444 Sheet Metal Work
+·	3446 Architectural and Ornamental Metal Work
+·	3448 Prefabricated Metal Buildings and Components
+·	3449 Miscellaneous Structural Metal Work
+Industry Group 345: Screw Machine Products, And Bolts, Nuts, Screws, Rivets, And Washers
+·	3451 Screw Machine Products
+·	3452 Bolts, Nuts, Screws, Rivets, and Washers
+Industry Group 346: Metal Forgings And Stampings
+·	3462 Iron and Steel Forgings
+·	3463 Nonferrous Forgings
+·	3465 Automotive Stampings
+·	3466 Crowns and Closures
+·	3469 Metal Stampings, Not Elsewhere Classified
+Industry Group 347: Coating, Engraving, And Allied Services
+·	3471 Electroplating, Plating, Polishing, Anodizing, and Coloring
+·	3479 Coating, Engraving, and Allied Services, Not Elsewhere Classified
+Industry Group 348: Ordnance And Accessories, Except Vehicles And Guided Missiles
+·	3482 Small Arms Ammunition
+·	3483 Ammunition, Except for Small Arms
+·	3484 Small Arms
+·	3489 Ordnance and Accessories, Not Elsewhere Classified
+Industry Group 349: Miscellaneous Fabricated Metal Products
+·	3491 Industrial Valves
+·	3492 Fluid Power Valves and Hose Fittings
+·	3493 Steel Springs, Except Wire
+·	3494 Valves and Pipe Fittings, Not Elsewhere Classified
+·	3495 Wire Springs
+·	3496 Miscellaneous Fabricated Wire Products
+·	3497 Metal Foil and Leaf
+·	3498 Fabricated Pipe and Pipe Fittings
+·	3499 Fabricated Metal Products, Not Elsewhere Classified
+Industry Group 351: Engines And Turbines
+·	3511 Steam, Gas, and Hydraulic Turbines, and Turbine Generator Set Units
+·	3519 Internal Combustion Engines, Not Elsewhere Classified
+Industry Group 352: Farm And Garden Machinery And Equipment
+·	3523 Farm Machinery and Equipment
+·	3524 Lawn and Garden Tractors and Home Lawn and Garden Equipment
+Industry Group 353: Construction, Mining, And Materials Handling
+·	3531 Construction Machinery and Equipment
+·	3532 Mining Machinery and Equipment, Except Oil and Gas Field Machinery and Equipment
+·	3533 Oil and Gas Field Machinery and Equipment
+·	3534 Elevators and Moving Stairways
+·	3535 Conveyors and Conveying Equipment
+·	3536 Overhead Traveling Cranes, Hoists, and Monorail Systems
+·	3537 Industrial Trucks, Tractors, Trailers, and Stackers
+Industry Group 354: Metalworking Machinery And Equipment
+·	3541 Machine Tools, Metal Cutting Types
+·	3542 Machine Tools, Metal Forming Types
+·	3543 Industrial Patterns
+·	3544 Special Dies and Tools, Die Sets, Jigs and Fixtures, and Industrial Molds
+·	3545 Cutting Tools, Machine Tool Accessories, and Machinists' Precision Measuring Devices
+·	3546 Power-Driven Handtools
+·	3547 Rolling Mill Machinery and Equipment
+·	3548 Electric and Gas Welding and Soldering Equipment
+·	3549 Metalworking Machinery, Not Elsewhere Classified
+Industry Group 355: Special Industry Machinery, Except Metalworking
+·	3552 Textile Machinery
+·	3553 Woodworking Machinery
+·	3554 Paper Industries Machinery
+·	3555 Printing Trades Machinery and Equipment
+·	3556 Food Products Machinery
+·	3559 Special Industry Machinery, Not Elsewhere Classified
+Industry Group 356: General Industrial Machinery And Equipment
+·	3561 Pumps and Pumping Equipment
+·	3562 Ball and Roller Bearings
+·	3563 Air and Gas Compressors
+·	3564 Industrial and Commercial Fans and Blowers and Air Purification Equipment
+·	3565 Packaging Machinery
+·	3566 Speed Changers, Industrial High-Speed Drives, and Gears
+·	3567 Industrial Process Furnaces and Ovens
+·	3568 Mechanical Power Transmission Equipment, Not Elsewhere Classified
+·	3569 General Industrial Machinery and Equipment, Not Elsewhere
+Industry Group 357: Computer And Office Equipment
+·	3571 Electronic Computers
+·	3572 Computer Storage Devices
+·	3575 Computer Terminals
+·	3577 Computer Peripheral Equipment, Not Elsewhere Classified
+·	3578 Calculating and Accounting Machines, Except Electronic Computers
+·	3579 Office Machines, Not Elsewhere Classified
+Industry Group 358: Refrigeration And Service Industry Machinery
+·	3581 Automatic Vending Machines
+·	3582 Commercial Laundry, Drycleaning, and Pressing Machines
+·	3585 Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment
+·	3586 Measuring and Dispensing Pumps
+·	3589 Service Industry Machinery, Not Elsewhere Classified
+Industry Group 359: Miscellaneous Industrial And Commercial
+·	3592 Carburetors, Pistons, Piston Rings, and Valves
+·	3593 Fluid Power Cylinders and Actuators
+·	3594 Fluid Power Pumps and Motors
+·	3596 Scales and Balances, Except Laboratory
+·	3599 Industrial and Commercial Machinery and Equipment, Not Elsewhere Classified
+Industry Group 361: Electric Transmission And Distribution Equipment
+·	3612 Power, Distribution, and Specialty Transformers
+·	3613 Switchgear and Switchboard Apparatus
+Industry Group 362: Electrical Industrial Apparatus
+·	3621 Motors and Generators
+·	3624 Carbon and Graphite Products
+·	3625 Relays and Industrial Controls
+·	3629 Electrical Industrial Apparatus, Not Elsewhere Classified
+Industry Group 363: Household Appliances
+·	3631 Household Cooking Equipment
+·	3632 Household Refrigerators and HOme and Farm Freezers
+·	3633 Household Laundry Equipment
+·	3634 Electric Housewares and Fans
+·	3635 Household Vacuum Cleaners
+·	3639 Household Appliances, Not Elsewhere Classified
+Industry Group 364: Electric Lighting And Wiring Equipment
+·	3641 Electric Lamp Bulbs and Tubes
+·	3643 Current-Carrying Wiring Devices
+·	3644 Noncurrent-Carrying Wiring Devices
+·	3645 Residential Electric Lighting Fixtures
+·	3646 Commercial, Industrial, and Institutional Electric Lighting Fixtures
+·	3647 Vehicular Lighting Equipment
+·	3648 Lighting Equipment, Not Elsewhere Classified
+Industry Group 365: Household Audio And Video Equipment, And Audio
+·	3651 Household Audio and Video Equipment
+·	3652 Phonograph Records and Prerecorded Audio Tapes and Disks
+Industry Group 366: Communications Equipment
+·	3661 Telephone and Telegraph Apparatus
+·	3663 Radio and Television Broadcasting and Communications Equipment
+·	3669 Communications Equipment, Not Elsewhere Classified
+Industry Group 367: Electronic Components And Accessories
+·	3671 Electron Tubes
+·	3672 Printed Circuit Boards
+·	3674 Semiconductors and Related Devices
+·	3675 Electronic Capacitors
+·	3676 Electronic Resistors
+·	3677 Electronic Coils, Transformers, and Other Inductors
+·	3678 Electronic Connectors
+·	3679 Electronic Components, Not Elsewhere Classified
+Industry Group 369: Miscellaneous Electrical Machinery, Equipment, and Supplies
+·	3691 Storage Batteries
+·	3692 Primary Batteries, Dry and Wet
+·	3694 Electrical Equipment for Internal Combustion Engines
+·	3695 Magnetic And Optical Recording Media
+·	3699 Electrical Machinery, Equipment, and Supplies, Not Elsewhere
+Industry Group 371: Motor Vehicles And Motor Vehicle Equipment
+·	3711 Motor Vehicles and Passenger Car Bodies
+·	3713 Truck and Bus Bodies
+·	3714 Motor Vehicle Parts and Accessories
+·	3715 Truck Trailers
+·	3716 Motor Homes
+Industry Group 372: Aircraft And Parts
+·	3721 Aircraft
+·	3724 Aircraft Engines and Engine Parts
+·	3728 Aircraft Parts and Auxiliary Equipment, Not Elsewhere Classified
+Industry Group 373: Ship And Boat Building And Repairing
+·	3731 Ship Building and Repairing
+·	3732 Boat Building and Repairing
+Industry Group 374: Railroad Equipment
+·	3743 Railroad Equipment
+Industry Group 375: Motorcycles, Bicycles, And Parts
+·	3751 Motorcycles, Bicycles, and Parts
+Industry Group 376: Guided Missiles And Space Vehicles And Parts
+·	3761 Guided Missiles and Space Vehicles
+·	3764 Guided Missile and Space Vehicle Propulsion Units and Propulsion Unit Parts
+·	3769 Guided Missile Space Vehicle Parts and Auxiliary Equipment, Not Elsewhere Classified
+Industry Group 379: Miscellaneous Transportation Equipment
+·	3792 Travel Trailers and Campers
+·	3795 Tanks and Tank Components
+·	3799 Transportation Equipment, Not Elsewhere Classified
+Industry Group 381: Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment
+·	3812 Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems and Instruments
+Industry Group 382: Laboratory Apparatus And Analytical, Optical, Measuring, and Controlling Instruments
+·	3821 Laboratory Apparatus and Furniture
+·	3822 Automatic Controls for Regulating Residential and Commercial Environments and Appliances
+·	3823 Industrial Instruments for Measurement, Display, and Control of Process Variables; and Related Products
+·	3824 Totalizing Fluid Meters and Counting Devices
+·	3825 Instruments for Measuring and Testing of Electricity and Electrical Signals
+·	3826 Laboratory Analytical Instruments
+·	3827 Optical Instruments and Lenses
+·	3829 Measuring and Controlling Devices, Not Elsewhere Classified
+Industry Group 384: Surgical, Medical, And Dental Instruments And Supplies
+·	3841 Surgical and Medical Instruments and Apparatus
+·	3842 Orthopedic, Prosthetic, and Surgical Appliances and Supplies
+·	3843 Dental Equipment and Supplies
+·	3844 X-Ray Apparatus and Tubes and Related Irradiation Apparatus
+·	3845 Electromedical and Electrotherapeutic Apparatus
+Industry Group 385: Ophthalmic Goods
+·	3851 Ophthalmic Goods
+Industry Group 386: Photographic Equipment And Supplies
+·	3861 Photographic Equipment and Supplies
+Industry Group 387: Watches, Clocks, Clockwork Operated Devices, and Parts
+·	3873 Watches, Clocks, Clockwork Operated Devices, and Parts
+Industry Group 391: Jewelry, Silverware, And Plated Ware
+·	3911 Jewelry, Precious Metal
+·	3914 Silverware, Plated Ware, and Stainless Steel Ware
+·	3915 Jewelers' Findings and Materials, and Lapidary Work
+Industry Group 393: Musical Instruments
+·	3931 Musical Instruments
+Industry Group 394: Dolls, Toys, Games And Sporting And Athletic
+·	3942 Dolls and Stuffed Toys
+·	3944 Games, Toys, and Children's Vehicles, Except Dolls and Bicycles
+·	3949 Sporting and Athletic Goods, Not Elsewhere Classified
+Industry Group 395: Pens, Pencils, And Other Artists Materials
+·	3951 Pens, Mechanical Pencils, and Parts
+·	3952 Lead Pencils, Crayons, and Artists' Materials
+·	3953 Marking Devices
+·	3955 Carbon Paper and Inked Ribbons
+Industry Group 396: Costume Jewelry, Costume Novelties, Buttons, And Miscellaneous Notions, Ecept Precious Metal
+·	3961 Costume Jewelry and Costume Novelties, Except Precious Metal
+·	3965 Fasteners, Buttons, Needles, and Pins
+Industry Group 399: Miscellaneous Manufacturing Industries
+·	3991 Brooms and Brushes
+·	3993 Signs and Advertising Specialties
+·	3995 Burial Caskets
+·	3996 Linoleum, Asphalted-Felt-Base, and Other Hard Surface Floor Coverings, Not Elsewhere Classified
+·	3999 Manufacturing Industries, Not Elsewhere Classified
+Industry Group 401: Railroads
+·	4011 Railroads, Line-Haul Operating
+·	4013 Railroad Switching and Terminal Establishments
+Industry Group 411: Local And Suburban Passenger Transportation
+·	4111 Local and Suburban Transit
+·	4119 Local Passenger Transportation, Not Elsewhere Classified
+Industry Group 412: Taxicabs
+·	4121 Taxicabs
+Industry Group 413: Intercity And Rural Bus Transportation
+·	4131 Intercity and Rural Bus Transportation
+Industry Group 414: Bus Charter Service
+·	4141 Local Bus Charter Service
+·	4142 Bus Charter Service, Except Local
+Industry Group 415: School Buses
+·	4151 School Buses
+Industry Group 417: Terminal And Service Facilities For Motor Vehicle
+·	4173 Terminal and Service Facilities for Motor Vehicle Passenger Transportation
+Industry Group 421: Trucking And Courier Services, Except Air
+·	4212 Local Trucking Without Storage
+·	4213 Trucking, Except Local
+·	4214 Local Trucking With Storage
+·	4215 Courier Services, Except by Air
+Industry Group 422: Public Warehousing And Storage
+·	4221 Farm Product Warehousing and Storage
+·	4222 Refrigerated Warehousing and Storage
+·	4225 General Warehousing and Storage
+·	4226 Special Warehousing and Storage, Not Elsewhere Classified
+Industry Group 423: Terminal And Joint Terminal Maintenance
+·	4231 Terminal and Joint Terminal Maintenance Facilities for Motor Freight Transportation
+Industry Group 431: United States Postal Service
+·	4311 United States Postal Service
+Industry Group 441: Deep Sea Foreign Transportation Of Freight
+·	4412 Deep Sea Foreign Transportation of Freight
+Industry Group 442: Deep Sea Domestic Transportation Of Freight
+·	4424 Deep Sea Domestic Transportation of Freight
+Industry Group 443: Freight Transportation On The Great Lakes-st.
+·	4432 Freight Transportation on the Great Lakes-St. Lawrence Seaway
+Industry Group 444: Water Transportation Of Freight, Not Elsewhere
+·	4449 Water Transportation of Freight, Not Elsewhere Classified
+Industry Group 448: Water Transportation Of Passengers
+·	4481 Deep Sea Transportation of Passengers, Except by Ferry
+·	4482 Ferries
+·	4489 Water Transportation of Passengers, Not Elsewhere Classified
+Industry Group 449: Services Incidental To Water Transportation
+·	4491 Marine Cargo Handling
+·	4492 Towing and Tugboat Services
+·	4493 Marinas
+·	4499 Water Transportation Services, Not Elsewhere Classified
+Industry Group 451: Air Transportation, Scheduled, And Air Courier
+·	4512 Air Transportation, Scheduled
+·	4513 Air Courier Services
+Industry Group 452: Air Transportation, Nonscheduled
+·	4522 Air Transportation, Nonscheduled
+Industry Group 458: Airports, Flying Fields, And Airport Terminal
+·	4581 Airports, Flying Fields, and Airport Terminal Services
+Industry Group 461: Pipelines, Except Natural Gas
+·	4612 Crude Petroleum Pipelines
+·	4613 Refined Petroleum Pipelines
+·	4619 Pipelines, Not Elsewhere Classified
+Industry Group 472: Arrangement Of Passenger Transportation
+·	4724 Travel Agencies
+·	4725 Tour Operators
+·	4729 Arrangement of Passenger Transportation, Not Elsewhere Classified
+Industry Group 473: Arrangement Of Transportation Of Freight And Cargo
+·	4731 Arrangement of Transportation of Freight and Cargo
+Industry Group 474: Rental Of Railroad Cars
+·	4741 Rental of Railroad Cars
+Industry Group 478: Miscellaneous Services Incidental To Transportation
+·	4783 Packing and Crating
+·	4785 Fixed Facilities and Inspection and Weighing Services for Motor Vehicle Transportation
+·	4789 Transportation Services, Not Elsewhere Classified
+Industry Group 481: Telephone Communications
+·	4812 Radiotelephone Communications
+·	4813 Telephone Communications, Except Radiotelephone
+Industry Group 482: Telegraph And Other Message Communications
+·	4822 Telegraph and Other Message Communications
+Industry Group 483: Radio And Television Broadcasting Stations
+·	4832 Radio Broadcasting Stations
+·	4833 Television Broadcasting Stations
+Industry Group 484: Cable And Other Pay Television Services
+·	4841 Cable and Other Pay Television Services
+Industry Group 489: Communications Services, Not Elsewhere
+·	4899 Communications Services, Not Elsewhere Classified
+Industry Group 491: Electric Services
+·	4911 Electric Services
+Industry Group 492: Gas Production And Distribution
+·	4922 Natural Gas Transmission
+·	4923 Natural Gas Transmission and Distribution
+·	4924 Natural Gas Distribution
+·	4925 Mixed, Manufactured, or Liquefied Petroleum Gas Production and/or
+Industry Group 493: Combination Electric And Gas, And Other Utility
+·	4931 Electric and Other Services Combined
+·	4932 Gas and Other Services Combined
+·	4939 Combination Utilities, Not Elsewhere Classified
+Industry Group 494: Water Supply
+·	4941 Water Supply
+Industry Group 495: Sanitary Services
+·	4952 Sewerage Systems
+·	4953 Refuse Systems
+·	4959 Sanitary Services, Not Elsewhere Classified
+Industry Group 496: Steam And Air-conditioning Supply
+·	4961 Steam and Air-Conditioning Supply
+Industry Group 497: Irrigation Systems
+·	4971 Irrigation Systems
+Industry Group 501: Motor Vehicles And Motor Vehicle Parts And Supplies
+·	5012 Automobiles and Other Motor Vehicles
+·	5013 Motor Vehicle Supplies and New Parts
+·	5014 Tires and Tubes
+·	5015 Motor Vehicle Parts, Used
+Industry Group 502: Furniture And Home Furnishings
+·	5021 Furniture
+·	5023 Home furnishings
+Industry Group 503: Lumber And Other Construction Materials
+·	5031 Lumber, Plywood, Millwork, and Wood Panels
+·	5032 Brick, Stone, and Related Construction Materials
+·	5033 Roofing, Siding, and Insulation Materials
+·	5039 Construction Materials, Not Elsewhere Classified
+Industry Group 504: Professional And Commercial Equipment And Supplies
+·	5043 Photographic Equipment and Supplies
+·	5044 Office Equipment
+·	5045 Computers and Computer Peripheral Equipment and Software
+·	5046 Commercial Equipment, Not Elsewhere Classified
+·	5047 Medical, Dental, and Hospital Equipment and Supplies
+·	5048 Ophthalmic Goods
+·	5049 Professional Equipment and Supplies, Not Elsewhere Classified
+Industry Group 505: Metals And Minerals, Except Petroleum
+·	5051 Metals Service Centers and Offices
+·	5052 Coal and Other Minerals and Ores
+Industry Group 506: Electrical Goods
+·	5063 Electrical Apparatus and Equipment Wiring Supplies, and Construction Materials
+·	5064 Electrical Appliances, Television and Radio Sets
+·	5065 Electronic Parts and Equipment, Not Elsewhere Classified
+Industry Group 507: Hardware, And Plumbing And Heating Equipment
+·	5072 Hardware
+·	5074 Plumbing and Heating Equipment and Supplies (Hydronics)
+·	5075 Warm Air Heating and Air-Conditioning Equipment and Supplies
+·	5078 Refrigeration Equipment and Supplies
+Industry Group 508: Machinery, Equipment, And Supplies
+·	5082 Construction and Mining (Except Petroleum) Machinery and Equipment
+·	5083 Farm and Garden Machinery and Equipment
+·	5084 Industrial Machinery and Equipment
+·	5085 Industrial Supplies
+·	5087 Service Establishment Equipment and Supplies
+·	5088 Transportation Equipment and Supplies, Except Motor Vehicles
+Industry Group 509: Miscellaneous Durable Goods
+·	5091 Sporting and Recreational Goods and Supplies
+·	5092 Toys and Hobby Goods and Supplies
+·	5093 Scrap and Waste Materials
+·	5094 Jewelry, Watches, Precious Stones, and Precious Metals
+·	5099 Durable Goods, Not Elsewhere Classified
+Industry Group 511: Paper And Paper Products
+·	5111 Printing and Writing Paper
+·	5112 Stationery and Office Supplies
+·	5113 Industrial and Personal Service Paper
+Industry Group 512: Drugs, Drug Proprietaries, And Druggists' Sundries
+·	5122 Drugs, Drug Proprietaries, and Druggists' Sundries
+Industry Group 513: Apparel, Piece Goods, And Notions
+·	5131 Piece Goods, Notions, and Other Dry Good
+·	5136 Men's and Boy's Clothing and Furnishings
+·	5137 Women's, Children's, and Infants' Clothing and Accessories
+·	5139 Footwear
+Industry Group 514: Groceries And Related Products
+·	5141 Groceries, General Line
+·	5142 Packaged Frozen Foods
+·	5143 Dairy Products, Except Dried or Canned
+·	5144 Poultry and Poultry Products
+·	5145 Confectionery
+·	5146 Fish and Seafoods
+·	5147 Meats and Meat Products
+·	5148 Fresh Fruits and Vegetables
+·	5149 Groceries and Related Products, Not Elsewhere Classified
+Industry Group 515: Farm-product Raw Materials
+·	5153 Grain and Field Beans
+·	5154 Livestock
+·	5159 Farm-Product Raw Materials, Not Elsewhere Classified
+Industry Group 516: Chemicals And Allied Products
+·	5162 Plastics Materials and Basic Forms and Shapes
+·	5169 Chemicals and Allied Products, Not Elsewhere Classified
+Industry Group 517: Petroleum And Petroleum Products
+·	5171 Petroleum Bulk stations and Terminals
+·	5172 Petroleum and Petroleum Products Wholesalers, Except Bulk Stations and Terminals
+Industry Group 518: Beer, Wine, And Distilled Alcoholic Beverages
+·	5181 Beer and Ale
+·	5182 Wine and Distilled Alcoholic Beverages
+Industry Group 519: Miscellaneous Non-durable Goods
+·	5191 Farm Supplies
+·	5192 Books, Periodicals, and Newspapers
+·	5193 Flowers, Nursery Stock, and Florists' Supplies
+·	5194 Tobacco and Tobacco Products
+·	5198 Paints, Varnishes, and Supplies
+·	5199 Nondurable Goods, Not Elsewhere Classified
+Industry Group 521: Lumber And Other Building Materials Dealers
+·	5211 Lumber and Other Building Materials Dealers
+Industry Group 523: Paint, Glass And Wallpaper Stores
+·	5231 Paint, Glass, and Wallpaper Stores
+Industry Group 525: Hardware Stores
+·	5251 Hardware Stores
+Industry Group 526: Retail Nurseries, Lawn And Garden Supply Stores
+·	5261 Retail Nurseries, Lawn and Garden Supply Stores
+Industry Group 527: Mobile Home Dealers
+·	5271 Mobile Home Dealers
+Industry Group 531: Department Stores
+·	5311 Department Stores
+Industry Group 533: Variety Stores
+·	5331 Variety Stores
+Industry Group 539: Miscellaneous General Merchandise Stores
+·	5399 Miscellaneous General Merchandise Stores
+Industry Group 541: Grocery Stores
+·	5411 Grocery Stores
+Industry Group 542: Meat And Fish (seafood) Markets, Including
+·	5421 Meat and Fish (Seafood) Markets, Including Freezer Provisioners
+Industry Group 543: Fruit And Vegetable Markets
+·	5431 Fruit and Vegetable Markets
+Industry Group 544: Candy, Nut, And Confectionery Stores
+·	5441 Candy, Nut, and Confectionery Stores
+Industry Group 545: Dairy Products Stores
+·	5451 Dairy Products Stores
+Industry Group 546: Retail Bakeries
+·	5461 Retail Bakeries
+Industry Group 549: Miscellaneous Food Stores
+·	5499 Miscellaneous Food Stores
+Industry Group 551: Motor Vehicle Dealers (new And Used)
+·	5511 Motor Vehicle Dealers (New and Used)
+Industry Group 552: Motor Vehicle Dealers (used Only)
+·	5521 Motor Vehicle Dealers (Used Only)
+Industry Group 553: Auto And Home Supply Stores
+·	5531 Auto and Home Supply Stores
+Industry Group 554: Gasoline Service Stations
+·	5541 Gasoline Service Stations
+Industry Group 555: Boat Dealers
+·	5551 Boat Dealers
+Industry Group 556: Recreational Vehicle Dealers
+·	5561 Recreational Vehicle Dealers
+Industry Group 557: Motorcycle Dealers
+·	5571 Motorcycle Dealers
+Industry Group 559: Automotive Dealers, Not Elsewhere Classified
+·	5599 Automotive Dealers, Not Elsewhere Classified
+Industry Group 561: Men's And Boys' Clothing And Accessory Stores
+·	5611 Men's and Boys' Clothing and Accessory Stores
+Industry Group 562: Women's Clothing Stores
+·	5621 Women's Clothing Stores
+Industry Group 563: Women's Accessory And Specialty Stores
+·	5632 Women's Accessory and Specialty Stores
+Industry Group 564: Children's And Infants' Wear Stores
+·	5641 Children's and Infants' Wear Stores
+Industry Group 565: Family Clothing Stores
+·	5651 Family Clothing Stores
+Industry Group 566: Shoe Stores
+·	5661 Shoe Stores
+Industry Group 569: Miscellaneous Apparel And Accessory Stores
+·	5699 Miscellaneous Apparel and Accessory Stores
+Industry Group 571: Home Furniture And Furnishings Stores
+·	5712 Furniture Stores
+·	5713 Floor Covering Stores
+·	5714 Drapery, Curtain, and Upholstery Stores
+·	5719 Miscellaneous home furnishings Stores
+Industry Group 572: Household Appliance Stores
+·	5722 Household Appliance Stores
+Industry Group 573: Radio, Television, Consumer Electronics, And Music Stores
+·	5731 Radio, Television, and Consumer Electronics Stores
+·	5734 Computer and Computer Software Stores
+·	5735 Record and Prerecorded Tape Stores
+·	5736 Musical Instrument Stores
+Industry Group 581: Eating And Drinking Places
+·	5812 Eating Places
+·	5813 Drinking Places (alcoholic Beverages)
+Industry Group 591: Drug Stores And Proprietary Stores
+·	5912 Drug Stores and Proprietary Stores
+Industry Group 592: Liquor Stores
+·	5921 Liquor Stores
+Industry Group 593: Used Merchandise Stores
+·	5932 Used Merchandise Stores
+Industry Group 594: Miscellaneous Shopping Goods Stores
+·	5941 Sporting Goods Stores and Bicycle Shops
+·	5942 Book Stores
+·	5943 Stationery Stores
+·	5944 Jewelry Stores
+·	5945 Hobby, Toy, and Game Shops
+·	5946 Camera and Photographic Supply Stores
+·	5947 Gift, Novelty, and Souvenir Shops
+·	5948 Luggage and Leather Goods Stores
+·	5949 Sewing, Needlework, and Piece Goods Stores
+Industry Group 596: Nonstore Retailers
+·	5961 Catalog and Mail-Order Houses
+·	5962 Automatic Merchandising Machine Operators
+·	5963 Direct Selling Establishments
+Industry Group 598: Fuel Dealers
+·	5983 Fuel Oil Dealers
+·	5984 Liquefied Petroleum Gas (Bottled Gas) Dealers
+·	5989 Fuel Dealers, Not Elsewhere Classified
+Industry Group 599: Retail Stores, Not Elsewhere Classified
+·	5992 Florists
+·	5993 Tobacco Stores and Stands
+·	5994 News Dealers and Newsstands
+·	5995 Optical Goods Stores
+·	5999 Miscellaneous Retail Stores, Not Elsewhere Classified
+Industry Group 601: Central Reserve Depository Institutions
+·	6011 Federal Reserve Banks
+·	6019 Central Reserve Depository Institutions, Not Elsewhere Classified
+Industry Group 602: Commercial Banks
+·	6021 National Commercial Banks
+·	6022 State Commercial Banks
+·	6029 Commercial Banks, Not Elsewhere Classified
+Industry Group 603: Savings Institutions
+·	6035 Savings Institutions, Federally Chartered
+·	6036 Savings Institutions, Not Federally Chartered
+Industry Group 606: Credit Unions
+·	6061 Credit Unions, Federally Chartered
+·	6062 Credit Unions, Not Federally Chartered
+Industry Group 608: Foreign Banking And Branches And Agencies Of
+·	6081 Branches and Agencies of Foreign Banks
+·	6082 Foreign Trade and International Banking Institutions
+Industry Group 609: Functions Related To Depository Banking
+·	6091 Non-deposit Trust Facilities,
+·	6099 Functions Related to Depository Banking, Not Elsewhere Classified
+Industry Group 611: Federal And Federally-sponsored Credit Agencies
+·	6111 Federal and Federally-Sponsored Credit Agencies
+Industry Group 614: Personal Credit Institutions
+·	6141 Personal Credit Institutions
+Industry Group 615: Business Credit Institutions
+·	6153 Short-Term Business Credit Institutions, Except Agricultural
+·	6159 Miscellaneous business Credit Institutions
+Industry Group 616: Mortgage Bankers And Brokers
+·	6162 Mortgage Bankers and Loan Correspondents
+·	6163 Loan Brokers
+Industry Group 621: Security Brokers, Dealers, And Flotation
+·	6211 Security Brokers, Dealers, and Flotation Companies
+Industry Group 622: Commodity Contracts Brokers And Dealers
+·	6221 Commodity Contracts Brokers and Dealers
+Industry Group 623: Security And Commodity Exchanges
+·	6231 Security and Commodity Exchanges
+Industry Group 628: Services Allied With The Exchange Of Securities
+·	6282 Investment Advice
+·	6289 Services Allied With the Exchange of Securities or Commodities, Not Elsewhere Classified
+Industry Group 631: Life Insurance
+·	6311 Life Insurance
+Industry Group 632: Accident And Health Insurance And Medical
+·	6321 Accident and Health Insurance
+·	6324 Hospital and Medical Service Plans
+Industry Group 633: Fire, Marine, And Casualty Insurance
+·	6331 Fire, Marine, and Casualty Insurance
+Industry Group 635: Surety Insurance
+·	6351 Surety Insurance
+Industry Group 636: Title Insurance
+·	6361 Title Insurance
+Industry Group 637: Pension, Health, And Welfare Funds
+·	6371 Pension, Health, and Welfare Funds
+Industry Group 639: Insurance Carriers, Not Elsewhere Classified
+·	6399 Insurance Carriers, Not Elsewhere Classified
+Industry Group 641: Insurance Agents, Brokers, And Service
+·	6411 Insurance Agents, Brokers, and Service
+Industry Group 651: Real Estate Operators (except Developers) And Lessors
+·	6512 Operators of Nonresidential Buildings
+·	6513 Operators of Apartment Buildings
+·	6514 Operators of Dwellings Other Than Apartment Buildings
+·	6515 Operators of Residential Mobile Home Sites
+·	6517 Lessors of Railroad Property
+·	6519 Lessors of Real Property, Not Elsewhere Classified
+Industry Group 653: Real Estate Agents And Managers
+·	6531 Real Estate Agents and Managers
+Industry Group 654: Title Abstract Offices
+·	6541 Title Abstract Offices
+Industry Group 655: Land Subdividers And Developers
+·	6552 Land Subdividers and Developers, Except Cemeteries
+·	6553 Cemetery Subdividers and Developers
+Industry Group 671: Holding Offices
+·	6712 Offices of Bank Holding Companies
+·	6719 Offices of Holding Companies, Not Elsewhere Classified
+Industry Group 672: Investment Offices
+·	6722 Management Investment Offices, Open-End
+·	6726 Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices
+Industry Group 673: Trusts
+·	6732 Educational, Religious, and Charitable Trusts
+·	6733 Trusts, Except Educational, Religious, and Charitable
+Industry Group 679: Miscellaneous Investing
+·	6792 Oil Royalty Traders
+·	6794 Patent Owners and Lessors
+·	6798 Real Estate Investment Trusts
+·	6799 Investors, Not Elsewhere Classified
+Industry Group 701: Hotels And Motels
+·	7011 Hotels and Motels
+Industry Group 702: Rooming And Boarding Houses
+·	7021 Rooming and Boarding Houses
+Industry Group 703: Camps And Recreational Vehicle Parks
+·	7032 Sporting and Recreational Camps
+·	7033 Recreational Vehicle Parks and Campsites
+Industry Group 704: Organization Hotels And Lodging Houses, On
+·	7041 Organization Hotels and Lodging Houses, on Membership Basis
+Industry Group 721: Laundry, Cleaning, And Garment Services
+·	7211 Power Laundries, Family and Commercial
+·	7212 Garment Pressing, and Agents for Laundries and Drycleaners
+·	7213 Linen Supply
+·	7215 Coin-Operated Laundries and Drycleaning
+·	7216 Drycleaning Plants, Except Rug Cleaning
+·	7217 Carpet and Upholstery Cleaning
+·	7218 Industrial Launderers
+·	7219 Laundry and Garment Services, Not Elsewhere Classified
+Industry Group 722: Photographic Studios, Portrait
+·	7221 Photographic Studios, Portrait
+Industry Group 723: Beauty Shops
+·	7231 Beauty Shops
+Industry Group 724: Barber Shops
+·	7241 Barber Shops
+Industry Group 725: Shoe Repair Shops And Shoeshine Parlors
+·	7251 Shoe Repair Shops and Shoeshine Parlors
+Industry Group 726: Funeral Service And Crematories
+·	7261 Funeral Service and Crematories
+Industry Group 729: Miscellaneous Personal Services
+·	7291 Tax Return Preparation Services
+·	7299 Miscellaneous Personal Services, Not Elsewhere Classified
+Industry Group 731: Advertising
+·	7311 Advertising Agencies
+·	7312 Outdoor Advertising Services
+·	7313 Radio, Television, and Publishers' Advertising Representatives
+·	7319 Advertising, Not Elsewhere Classified
+Industry Group 732: Consumer Credit Reporting Agencies, Mercantile
+·	7322 Adjustment and Collection Services
+·	7323 Credit Reporting Services
+Industry Group 733: Mailing, Reproduction, Commercial Art And Photography, and Stenographic Services
+·	7331 Direct Mail Advertising Services
+·	7334 Photocopying and Duplicating Services
+·	7335 Commercial Photography
+·	7336 Commercial Art and Graphic Design
+·	7338 Secretarial and Court Reporting Services
+Industry Group 734: Services To Dwellings And Other Buildings
+·	7342 Disinfecting and Pest Control Services
+·	7349 Building Cleaning and Maintenance Services, Not Elsewhere
+Industry Group 735: Miscellaneous Equipment Rental And Leasing
+·	7352 Medical Equipment Rental and Leasing
+·	7353 Heavy Construction Equipment Rental and Leasing
+·	7359 Equipment Rental and Leasing, Not Elsewhere Classified
+Industry Group 736: Personnel Supply Services
+·	7361 Employment Agencies
+·	7363 Help Supply Services
+Industry Group 737: Computer Programming, Data Processing, And Other Computer Related Services
+·	7371 Computer Programming Services
+·	7372 Prepackaged Software
+·	7373 Computer Integrated Systems Design
+·	7374 Computer Processing and Data Preparation and Processing Services
+·	7375 Information Retrieval Services
+·	7376 Computer Facilities Management Services
+·	7377 Computer Rental and Leasing
+·	7378 Computer Maintenance and Repair
+·	7379 Computer Related Services, Not Elsewhere Classified
+Industry Group 738: Miscellaneous Business Services
+·	7381 Detective, Guard, and Armored Car Services
+·	7382 Security Systems Services
+·	7383 News Syndicates
+·	7384 Photofinishing Laboratories
+·	7389 Business Services, Not Elsewhere Classified
+Industry Group 751: Automotive Rental And Leasing, Without Drivers
+·	7513 Truck Rental and Leasing, Without Drivers
+·	7514 Passenger Car Rental
+·	7515 Passenger Car Leasing
+·	7519 Utility Trailer and Recreational Vehicle Rental
+Industry Group 752: Automobile Parking
+·	7521 Automobile Parking
+Industry Group 753: Automotive Repair Shops
+·	7532 Top, Body, and Upholstery Repair Shops and Paint Shops
+·	7533 Automotive Exhaust System Repair Shops
+·	7534 Tire Retreading and Repair Shops
+·	7536 Automotive Glass Replacement Shops
+·	7537 Automotive Transmission Repair Shops
+·	7538 General Automotive Repair Shops
+·	7539 Automotive Repair Shops, Not Elsewhere Classified
+Industry Group 754: Automotive Services, Except Repair
+·	7542 Carwashes
+·	7549 Automotive Services, Except Repair and Carwashes
+Industry Group 762: Electrical Repair Shops
+·	7622 Radio and Television Repair Shops
+·	7623 Refrigeration and Air-Conditioning Service and Repair Shops
+·	7629 Electrical and Electronic Repair Shops, Not Elsewhere Classified
+Industry Group 763: Watch, Clock, And Jewelry Repair
+·	7631 Watch, Clock, and Jewelry Repair
+Industry Group 764: Reupholstery And Furniture Repair
+·	7641 Reupholstery and Furniture Repair
+Industry Group 769: Miscellaneous Repair Shops And Related Services
+·	7692 Welding Repair
+·	7694 Armature Rewinding Shops
+·	7699 Repair Shops and Related Services, Not Elsewhere Classified
+Industry Group 781: Motion Picture Production And Allied Services
+·	7812 Motion Picture and Video Tape Production
+·	7819 Services Allied to Motion Picture Production
+Industry Group 782: Motion Picture Distribution And Allied Services
+·	7822 Motion Picture and Video Tape Distribution
+·	7829 Services Allied to Motion Picture Distribution
+Industry Group 783: Motion Picture Theaters
+·	7832 Motion Picture Theaters, Except Drive-In
+·	7833 Drive-In Motion Picture Theaters
+Industry Group 784: Video Tape Rental
+·	7841 Video Tape Rental
+Industry Group 791: Dance Studios, Schools, And Halls
+·	7911 Dance Studios, Schools, and Halls
+Industry Group 792: Theatrical Producers (except Motion Picture),
+·	7922 Theatrical Producers (Except Motion Picture) and Miscellaneous Theatrical Services
+·	7929 Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups
+Industry Group 793: Bowling Centers
+·	7933 Bowling Centers
+Industry Group 794: Commercial Sports
+·	7941 Professional Sports Clubs and Promoters
+·	7948 Racing, Including Track Operation
+Industry Group 799: Miscellaneous Amusement And Recreation
+·	7991 Physical Fitness Facilities
+·	7992 Public Golf Courses
+·	7993 Coin-Operated Amusement Devices
+·	7996 Amusement Parks
+·	7997 Membership Sports and Recreation Clubs
+·	7999 Amusement and Recreation Services, Not Elsewhere Classified
+Industry Group 801: Offices And Clinics Of Doctors Of Medicine
+·	8011 Offices and Clinics of Doctors of Medicine
+Industry Group 802: Offices And Clinics Of Dentists
+·	8021 Offices and Clinics of Dentists
+Industry Group 803: Offices And Clinics Of Doctors Of Osteopathy
+·	8031 Offices and Clinics of Doctors of Osteopathy
+Industry Group 804: Offices And Clinics Of Other Health Practitioners
+·	8041 Offices and Clinics of Chiropractors
+·	8042 Offices and Clinics of Optometrists
+·	8043 Offices and Clinics of Podiatrists
+·	8049 Offices and Clinics of Health Practitioners, Not Elsewhere Classified
+Industry Group 805: Nursing And Personal Care Facilities
+·	8051 Skilled Nursing Care Facilities
+·	8052 Intermediate Care Facilities
+·	8059 Nursing and Personal Care Facilities, Not Elsewhere Classified
+Industry Group 806: Hospitals
+·	8062 General Medical and Surgical Hospitals
+·	8063 Psychiatric Hospitals
+·	8069 Specialty Hospitals, Except Psychiatric
+Industry Group 807: Medical And Dental Laboratories
+·	8071 Medical Laboratories
+·	8072 Dental Laboratories
+Industry Group 808: Home Health Care Services
+·	8082 Home Health Care Services
+Industry Group 809: Miscellaneous Health And Allied Services, Not
+·	8092 Kidney Dialysis Centers
+·	8093 Specialty Outpatient Facilities, Not Elsewhere Classified
+·	8099 Health and Allied Services, Not Elsewhere Classified
+Industry Group 811: Legal Services
+·	8111 Legal Services
+Industry Group 821: Elementary And Secondary Schools
+·	8211 Elementary and Secondary Schools
+Industry Group 822: Colleges, Universities, Professional Schools, And
+·	8221 Colleges, Universities, and Professional Schools
+·	8222 Junior Colleges and Technical Institutes
+Industry Group 823: Libraries
+·	8231 Libraries
+Industry Group 824: Vocational Schools
+·	8243 Data Processing Schools
+·	8244 Business and Secretarial Schools
+·	8249 Vocational Schools, Not Elsewhere Classified
+Industry Group 829: Schools And Educational Services, Not Elsewhere
+·	8299 Schools and Educational Services, Not Elsewhere Classified
+Industry Group 832: Individual And Family Social Services
+·	8322 Individual and Family Social Services
+Industry Group 833: Job Training And Vocational Rehabilitation
+·	8331 Job Training and Vocational Rehabilitation Services
+Industry Group 835: Child Day Care Services
+·	8351 Child Day Care Services
+Industry Group 836: Residential Care
+·	8361 Residential Care
+Industry Group 839: Social Services, Not Elsewhere Classified
+·	8399 Social Services, Not Elsewhere Classified
+Industry Group 841: Museums And Art Galleries
+·	8412 Museums and Art Galleries
+Industry Group 842: Arboreta And Botanical Or Zoological Gardens
+·	8422 Arboreta and Botanical or Zoological Gardens
+Industry Group 861: Business Associations
+·	8611 Business Associations
+Industry Group 862: Professional Membership Organizations
+·	8621 Professional Membership Organizations
+Industry Group 863: Labor Unions And Similar Labor Organizations
+·	8631 Labor Unions and Similar Labor Organizations
+Industry Group 864: Civic, Social, And Fraternal Associations
+·	8641 Civic, Social, and Fraternal Associations
+Industry Group 865: Political Organizations
+·	8651 Political Organizations
+Industry Group 866: Religious Organizations
+·	8661 Religious Organizations
+Industry Group 869: Membership Organizations, Not Elsewhere
+·	8699 Membership Organizations, Not Elsewhere Classified
+Industry Group 871: Engineering, Architectural, And Surveying
+·	8711 Engineering Services
+·	8712 Architectural Services
+·	8713 Surveying Services
+Industry Group 872: Accounting, Auditing, And Bookkeeping Services
+·	8721 Accounting, Auditing, and Bookkeeping Services
+Industry Group 873: Research, Development, And Testing Services
+·	8731 Commercial Physical and Biological Research
+·	8732 Commercial Economic, Sociological, and Educational Research
+·	8733 Noncommercial Research Organizations
+·	8734 Testing Laboratories
+Industry Group 874: Management And Public Relations Services
+·	8741 Management Services
+·	8742 Management Consulting Services
+·	8743 Public Relations Services
+·	8744 Facilities Support Management Services
+·	8748 Business Consulting Services, Not Elsewhere Classified
+Industry Group 881: Private Households
+·	8811 Private Households
+Industry Group 899: Miscellaneous Services
+·	8999 Services, Not Elsewhere Classified
+Industry Group 911: Executive Offices
+·	9111 Executive Offices
+Industry Group 912: Legislative Bodies
+·	9121 Legislative Bodies
+Industry Group 913: Executive And Legislative Offices Combined
+·	9131 Executive and Legislative Offices Combined
+Industry Group 919: General Government, Not Elsewhere Classified
+·	9199 General Government, Not Elsewhere Classified
+Industry Group 921: Courts
+·	9211 Courts
+Industry Group 922: Public Order And Safety
+·	9221 Police Protection
+·	9222 Legal Counsel and Prosecution
+·	9223 Correctional Institutions
+·	9224 Fire Protection
+·	9229 Public Order and Safety, Not Elsewhere Classified
+Industry Group 931: Public Finance, Taxation, And Monetary Policy
+·	9311 Public Finance, Taxation, and Monetary Policy
+Industry Group 941: Administration Of Educational Programs
+·	9411 Administration of Educational Programs
+Industry Group 943: Administration Of Public Health Programs
+·	9431 Administration of Public Health Programs
+Industry Group 944: Administration Of Social, Human Resource And
+·	9441 Administration of Social, Human Resource and Income Maintenance Programs
+Industry Group 945: Administration Of Veteran's Affairs, Except
+·	9451 Administration of Veterans' Affairs, Except Health and Insurance
+Industry Group 951: Administration Of Environmental Quality
+·	9511 Air and Water Resource and Solid Waste Management
+·	9512 Land, Mineral, Wildlife, and Forest Conservation
+Industry Group 953: Administration Of Housing And Urban
+·	9531 Administration of Housing Programs
+·	9532 Administration of Urban Planning and Community and Rural Development
+Industry Group 961: Administration Of General Economic Programs
+·	9611 Administration of General Economic Programs
+Industry Group 962: Regulation And Administration Of Transportation
+·	9621 Regulation and Administration of Transportation Programs
+Industry Group 963: Regulation And Administration Of
+·	9631 Regulation and Administration of Communications, Electric, Gas, and Other Utilities
+Industry Group 964: Regulation Of Agricultural Marketing And
+·	9641 Regulation of Agricultural Marketing and Commodities
+Industry Group 965: Regulation, Licensing, And Inspection Of
+·	9651 Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors
+Industry Group 966: Space Research And Technology
+·	9661 Space and Research and Technology
+Industry Group 971: National Security
+·	9711 National Security
+Industry Group 972: International Affairs
+·	9721 International Affairs
+Industry Group 999: Nonclassifiable Establishments
+·	9999 Nonclassifiable Establishments
