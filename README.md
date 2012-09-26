@@ -7,12 +7,5 @@ This is a downloadable list of the 4 Digit SIC codes in CSV and Excel format.
 
 How the data was created:
 
-1. download original text file form Census http://www.census.gov/econ/cbp/download/sic88_97.txt
-1. open in Open Office
-1. remove two and three digit SIC codes
-1. save file as XLS and CSV format
-
-Download lists here
-
-* Excel: https://raw.github.com/saintsjd/sic4-list/master/sic88_97.xls
-* CSV: https://raw.github.com/saintsjd/sic4-list/master/sic88_97.csv
+1. copy and pasted from http://www.osha.gov/pls/imis/sic_manual.html
+1. save file as XLS and CSV format using open office
