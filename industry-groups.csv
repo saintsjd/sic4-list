@@ -1,0 +1,417 @@
+Division,Major Group,Industry Group,Description
+A,01,011,Cash Grains
+A,01,013,"Field Crops, Except Cash Grains"
+A,01,016,Vegetables And Melons
+A,01,017,Fruits And Tree Nuts
+A,01,018,Horticultural Specialties
+A,01,019,"General Farms, Primarily Crop"
+A,02,021,"Livestock, Except Dairy And Poultry"
+A,02,024,Dairy Farms
+A,02,025,Poultry And Eggs
+A,02,027,Animal Specialties
+A,02,029,"General Farms, Primarily Livestock And Animal"
+A,07,071,Soil Preparation Services
+A,07,072,Crop Services
+A,07,074,Veterinary Services
+A,07,075,"Animal Services, Except Veterinary"
+A,07,076,Farm Labor And Management Services
+A,07,078,Landscape And Horticultural Services
+A,08,081,Timber Tracts
+A,08,083,Forest Nurseries And Gathering Of Forest
+A,08,085,Forestry Services
+A,09,091,Commercial Fishing
+A,09,092,Fish Hatcheries And Preserves
+A,09,097,"Hunting And Trapping, And Game Propagation"
+B,10,101,Iron Ores
+B,10,102,Copper Ores
+B,10,103,Lead And Zinc Ores
+B,10,104,Gold And Silver Ores
+B,10,106,"Ferroalloy Ores, Except Vanadium"
+B,10,108,Metal Mining Services
+B,10,109,Miscellaneous Metal Ores
+B,12,122,Bituminous Coal And Lignite Mining
+B,12,123,Anthracite Mining
+B,12,124,Coal Mining Services
+B,13,131,Crude Petroleum And Natural Gas
+B,13,132,Natural Gas Liquids
+B,13,138,Oil And Gas Field Services
+B,14,141,Dimension Stone
+B,14,142,"Crushed And Broken Stone, Including Riprap"
+B,14,144,Sand And Gravel
+B,14,145,"Clay, Ceramic, And Refractory Minerals"
+B,14,147,Chemical And Fertilizer Mineral Mining
+B,14,148,"Nonmetallic Minerals Services, Except Fuels"
+B,14,149,"Miscellaneous Nonmetallic Minerals, Except"
+C,15,152,General Building Contractors-residential
+C,15,153,Operative Builders
+C,15,154,General Building Contractors-nonresidential
+C,16,161,"Highway And Street Construction, Except"
+C,16,162,"Heavy Construction, Except Highway And Street"
+C,17,171,"Plumbing, Heating And Air-conditioning"
+C,17,172,Painting And Paper Hanging
+C,17,173,Electrical Work
+C,17,174,"Masonry, Stonework, Tile Setting, And Plastering"
+C,17,175,Carpentry And Floor Work
+C,17,176,"Roofing, Siding, And Sheet Metal Work"
+C,17,177,Concrete Work
+C,17,178,Water Well Drilling
+C,17,179,Miscellaneous Special Trade Contractors
+D,20,201,Meat Products
+D,20,202,Dairy Products
+D,20,203,"Canned, Frozen, And Preserved Fruits, Vegetables, and Food Specialties"
+D,20,204,Grain Mill Products
+D,20,205,Bakery Products
+D,20,206,Sugar And Confectionery Products
+D,20,207,Fats And Oils
+D,20,208,Beverages
+D,20,209,Miscellaneous Food Preparations And Kindred
+D,21,211,Cigarettes
+D,21,212,Cigars
+D,21,213,Chewing And Smoking Tobacco And Snuff
+D,21,214,Tobacco Stemming And Redrying
+D,22,221,"Broadwoven Fabric Mills, Cotton"
+D,22,222,"Broadwoven Fabric Mills, Manmade Fiber And Silk"
+D,22,223,"Broadwoven Fabric Mills, Wool (including Dyeing and Finishing)"
+D,22,224,"Narrow Fabric And Other Smallwares Mills, Cotton, Wool, Silk, and Manmade Fiber"
+D,22,225,Knitting Mills
+D,22,226,"Dyeing And Finishing Textiles, Except Wool Fabrics"
+D,22,227,Carpets And Rugs
+D,22,228,Yarn And Thread Mills
+D,22,229,Miscellaneous Textile Goods
+D,23,231,"Men's And Boys' Suits, Coats, And Overcoats"
+D,23,232,"Men's And Boys' Furnishings, Work Clothing, And Allied Garments"
+D,23,233,"Women's, Misses', And Juniors' Outerwear"
+D,23,234,"Women's, Misses', Children's, And Infants'"
+D,23,235,"Hats, Caps, And Millinery"
+D,23,236,"Girls', Children's, And Infants' Outerwear"
+D,23,237,Fur Goods
+D,23,238,Miscellaneous Apparel And Accessories
+D,23,239,Miscellaneous Fabricated Textile Products
+D,24,241,Logging
+D,24,242,Sawmills And Planing Mills
+D,24,243,"Millwork, Veneer, Plywood, And Structural Wood"
+D,24,244,Wood Containers
+D,24,245,Wood Buildings And Mobile Homes
+D,24,249,Miscellaneous Wood Products
+D,25,251,Household Furniture
+D,25,252,Office Furniture
+D,25,253,Public Building And Related Furniture
+D,25,254,"Partitions, Shelving, Lockers, And Office And"
+D,25,259,Miscellaneous Furniture And Fixtures
+D,26,261,Pulp Mills
+D,26,262,Paper Mills
+D,26,263,Paperboard Mills
+D,26,265,Paperboard Containers And Boxes
+D,26,267,"Converted Paper And Paperboard Products, Except"
+D,27,271,Newspaper
+D,27,272,Periodical
+D,27,273,Books
+D,27,274,Miscellaneous Publishing
+D,27,275,Commercial Printing
+D,27,276,Manifold Business Forms
+D,27,277,Greeting Cards
+D,27,278,"Blankbooks, Looseleaf Binders, And Bookbinding"
+D,27,279,Service Industries For The Printing Trade
+D,28,281,Industrial Inorganic Chemicals
+D,28,282,"Plastics Materials And Synthetic Resins, Synthetic"
+D,28,283,Drugs
+D,28,284,"Soap, Detergents, And Cleaning Preparations; Perfumes, Cosmetics, and Other Toilet Preparations"
+D,28,285,"Paints, Varnishes, Lacquers, Enamels, And Allied"
+D,28,286,Industrial Organic Chemicals
+D,28,287,Agricultural Chemicals
+D,28,289,Miscellaneous Chemical Products
+D,29,291,Petroleum Refining
+D,29,295,Asphalt Paving And Roofing Materials
+D,29,299,Miscellaneous Products Of Petroleum And Coal
+D,30,301,Tires And Inner Tubes
+D,30,302,Rubber And Plastics Footwear
+D,30,305,"Gaskets, Packing, And Sealing Devices And Rubber"
+D,30,306,"Fabricated Rubber Products, Not Elsewhere"
+D,30,308,Miscellaneous Plastics Products
+D,31,311,Leather Tanning And Finishing
+D,31,313,Boot And Shoe Cut Stock And Findings
+D,31,314,"Footwear, Except Rubber"
+D,31,315,Leather Gloves And Mittens
+D,31,316,Luggage
+D,31,317,Handbags And Other Personal Leather Goods
+D,31,319,"Leather Goods, Not Elsewhere Classified"
+D,32,321,Flat Glass
+D,32,322,"Glass And Glassware, Pressed Or Blown"
+D,32,323,"Glass Products, Made Of Purchased Glass"
+D,32,324,"Cement, Hydraulic"
+D,32,325,Structural Clay Products
+D,32,326,Pottery And Related Products
+D,32,327,"Concrete, Gypsum, And Plaster Products"
+D,32,328,Cut Stone And Stone Products
+D,32,329,"Abrasive, Asbestos, And Miscellaneous"
+D,33,331,"Steel Works, Blast Furnaces, And Rolling And Finishing Mills"
+D,33,332,Iron And Steel Foundries
+D,33,333,Primary Smelting And Refining Of Nonferrous
+D,33,334,Secondary Smelting And Refining Of Nonferrous
+D,33,335,"Rolling, Drawing, And Extruding Of Nonferrous"
+D,33,336,Nonferrous Foundries (castings)
+D,33,339,Miscellaneous Primary Metal Products
+D,34,341,Metal Cans And Shipping Containers
+D,34,342,"Cutlery, Handtools, And General Hardware"
+D,34,343,"Heating Equipment, Except Electric And Warm Air;"
+D,34,344,Fabricated Structural Metal Products
+D,34,345,"Screw Machine Products, And Bolts, Nuts, Screws, Rivets, And Washers"
+D,34,346,Metal Forgings And Stampings
+D,34,347,"Coating, Engraving, And Allied Services"
+D,34,348,"Ordnance And Accessories, Except Vehicles And Guided Missiles"
+D,34,349,Miscellaneous Fabricated Metal Products
+D,35,351,Engines And Turbines
+D,35,352,Farm And Garden Machinery And Equipment
+D,35,353,"Construction, Mining, And Materials Handling"
+D,35,354,Metalworking Machinery And Equipment
+D,35,355,"Special Industry Machinery, Except Metalworking"
+D,35,356,General Industrial Machinery And Equipment
+D,35,357,Computer And Office Equipment
+D,35,358,Refrigeration And Service Industry Machinery
+D,35,359,Miscellaneous Industrial And Commercial
+D,36,361,Electric Transmission And Distribution Equipment
+D,36,362,Electrical Industrial Apparatus
+D,36,363,Household Appliances
+D,36,364,Electric Lighting And Wiring Equipment
+D,36,365,"Household Audio And Video Equipment, And Audio"
+D,36,366,Communications Equipment
+D,36,367,Electronic Components And Accessories
+D,36,369,"Miscellaneous Electrical Machinery, Equipment, and Supplies"
+D,37,371,Motor Vehicles And Motor Vehicle Equipment
+D,37,372,Aircraft And Parts
+D,37,373,Ship And Boat Building And Repairing
+D,37,374,Railroad Equipment
+D,37,375,"Motorcycles, Bicycles, And Parts"
+D,37,376,Guided Missiles And Space Vehicles And Parts
+D,37,379,Miscellaneous Transportation Equipment
+D,38,381,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical Systems, Instruments, and Equipment"
+D,38,382,"Laboratory Apparatus And Analytical, Optical, Measuring, and Controlling Instruments"
+D,38,384,"Surgical, Medical, And Dental Instruments And Supplies"
+D,38,385,Ophthalmic Goods
+D,38,386,Photographic Equipment And Supplies
+D,38,387,"Watches, Clocks, Clockwork Operated Devices, and Parts"
+D,39,391,"Jewelry, Silverware, And Plated Ware"
+D,39,393,Musical Instruments
+D,39,394,"Dolls, Toys, Games And Sporting And Athletic"
+D,39,395,"Pens, Pencils, And Other Artists Materials"
+D,39,396,"Costume Jewelry, Costume Novelties, Buttons, And Miscellaneous Notions, Ecept Precious Metal"
+D,39,399,Miscellaneous Manufacturing Industries
+E,40,401,Railroads
+E,41,411,Local And Suburban Passenger Transportation
+E,41,412,Taxicabs
+E,41,413,Intercity And Rural Bus Transportation
+E,41,414,Bus Charter Service
+E,41,415,School Buses
+E,41,417,Terminal And Service Facilities For Motor Vehicle
+E,42,421,"Trucking And Courier Services, Except Air"
+E,42,422,Public Warehousing And Storage
+E,42,423,Terminal And Joint Terminal Maintenance
+E,43,431,United States Postal Service
+E,44,441,Deep Sea Foreign Transportation Of Freight
+E,44,442,Deep Sea Domestic Transportation Of Freight
+E,44,443,Freight Transportation On The Great Lakes-st.
+E,44,444,"Water Transportation Of Freight, Not Elsewhere"
+E,44,448,Water Transportation Of Passengers
+E,44,449,Services Incidental To Water Transportation
+E,45,451,"Air Transportation, Scheduled, And Air Courier"
+E,45,452,"Air Transportation, Nonscheduled"
+E,45,458,"Airports, Flying Fields, And Airport Terminal"
+E,46,461,"Pipelines, Except Natural Gas"
+E,47,472,Arrangement Of Passenger Transportation
+E,47,473,Arrangement Of Transportation Of Freight And Cargo
+E,47,474,Rental Of Railroad Cars
+E,47,478,Miscellaneous Services Incidental To Transportation
+E,48,481,Telephone Communications
+E,48,482,Telegraph And Other Message Communications
+E,48,483,Radio And Television Broadcasting Stations
+E,48,484,Cable And Other Pay Television Services
+E,48,489,"Communications Services, Not Elsewhere"
+E,49,491,Electric Services
+E,49,492,Gas Production And Distribution
+E,49,493,"Combination Electric And Gas, And Other Utility"
+E,49,494,Water Supply
+E,49,495,Sanitary Services
+E,49,496,Steam And Air-conditioning Supply
+E,49,497,Irrigation Systems
+F,50,501,Motor Vehicles And Motor Vehicle Parts And Supplies
+F,50,502,Furniture And Home Furnishings
+F,50,503,Lumber And Other Construction Materials
+F,50,504,Professional And Commercial Equipment And Supplies
+F,50,505,"Metals And Minerals, Except Petroleum"
+F,50,506,Electrical Goods
+F,50,507,"Hardware, And Plumbing And Heating Equipment"
+F,50,508,"Machinery, Equipment, And Supplies"
+F,50,509,Miscellaneous Durable Goods
+F,51,511,Paper And Paper Products
+F,51,512,"Drugs, Drug Proprietaries, And Druggists' Sundries"
+F,51,513,"Apparel, Piece Goods, And Notions"
+F,51,514,Groceries And Related Products
+F,51,515,Farm-product Raw Materials
+F,51,516,Chemicals And Allied Products
+F,51,517,Petroleum And Petroleum Products
+F,51,518,"Beer, Wine, And Distilled Alcoholic Beverages"
+F,51,519,Miscellaneous Non-durable Goods
+G,52,521,Lumber And Other Building Materials Dealers
+G,52,523,"Paint, Glass And Wallpaper Stores"
+G,52,525,Hardware Stores
+G,52,526,"Retail Nurseries, Lawn And Garden Supply Stores"
+G,52,527,Mobile Home Dealers
+G,53,531,Department Stores
+G,53,533,Variety Stores
+G,53,539,Miscellaneous General Merchandise Stores
+G,54,541,Grocery Stores
+G,54,542,"Meat And Fish (seafood) Markets, Including"
+G,54,543,Fruit And Vegetable Markets
+G,54,544,"Candy, Nut, And Confectionery Stores"
+G,54,545,Dairy Products Stores
+G,54,546,Retail Bakeries
+G,54,549,Miscellaneous Food Stores
+G,55,551,Motor Vehicle Dealers (new And Used)
+G,55,552,Motor Vehicle Dealers (used Only)
+G,55,553,Auto And Home Supply Stores
+G,55,554,Gasoline Service Stations
+G,55,555,Boat Dealers
+G,55,556,Recreational Vehicle Dealers
+G,55,557,Motorcycle Dealers
+G,55,559,"Automotive Dealers, Not Elsewhere Classified"
+G,56,561,Men's And Boys' Clothing And Accessory Stores
+G,56,562,Women's Clothing Stores
+G,56,563,Women's Accessory And Specialty Stores
+G,56,564,Children's And Infants' Wear Stores
+G,56,565,Family Clothing Stores
+G,56,566,Shoe Stores
+G,56,569,Miscellaneous Apparel And Accessory Stores
+G,57,571,Home Furniture And Furnishings Stores
+G,57,572,Household Appliance Stores
+G,57,573,"Radio, Television, Consumer Electronics, And Music Stores"
+G,58,581,Eating And Drinking Places
+G,59,591,Drug Stores And Proprietary Stores
+G,59,592,Liquor Stores
+G,59,593,Used Merchandise Stores
+G,59,594,Miscellaneous Shopping Goods Stores
+G,59,596,Nonstore Retailers
+G,59,598,Fuel Dealers
+G,59,599,"Retail Stores, Not Elsewhere Classified"
+H,60,601,Central Reserve Depository Institutions
+H,60,602,Commercial Banks
+H,60,603,Savings Institutions
+H,60,606,Credit Unions
+H,60,608,Foreign Banking And Branches And Agencies Of
+H,60,609,Functions Related To Depository Banking
+H,61,611,Federal And Federally-sponsored Credit Agencies
+H,61,614,Personal Credit Institutions
+H,61,615,Business Credit Institutions
+H,61,616,Mortgage Bankers And Brokers
+H,62,621,"Security Brokers, Dealers, And Flotation"
+H,62,622,Commodity Contracts Brokers And Dealers
+H,62,623,Security And Commodity Exchanges
+H,62,628,Services Allied With The Exchange Of Securities
+H,63,631,Life Insurance
+H,63,632,Accident And Health Insurance And Medical
+H,63,633,"Fire, Marine, And Casualty Insurance"
+H,63,635,Surety Insurance
+H,63,636,Title Insurance
+H,63,637,"Pension, Health, And Welfare Funds"
+H,63,639,"Insurance Carriers, Not Elsewhere Classified"
+H,64,641,"Insurance Agents, Brokers, And Service"
+H,65,651,Real Estate Operators (except Developers) And Lessors
+H,65,653,Real Estate Agents And Managers
+H,65,654,Title Abstract Offices
+H,65,655,Land Subdividers And Developers
+H,67,671,Holding Offices
+H,67,672,Investment Offices
+H,67,673,Trusts
+H,67,679,Miscellaneous Investing
+I,70,701,Hotels And Motels
+I,70,702,Rooming And Boarding Houses
+I,70,703,Camps And Recreational Vehicle Parks
+I,70,704,"Organization Hotels And Lodging Houses, On"
+I,72,721,"Laundry, Cleaning, And Garment Services"
+I,72,722,"Photographic Studios, Portrait"
+I,72,723,Beauty Shops
+I,72,724,Barber Shops
+I,72,725,Shoe Repair Shops And Shoeshine Parlors
+I,72,726,Funeral Service And Crematories
+I,72,729,Miscellaneous Personal Services
+I,73,731,Advertising
+I,73,732,"Consumer Credit Reporting Agencies, Mercantile"
+I,73,733,"Mailing, Reproduction, Commercial Art And Photography, and Stenographic Services"
+I,73,734,Services To Dwellings And Other Buildings
+I,73,735,Miscellaneous Equipment Rental And Leasing
+I,73,736,Personnel Supply Services
+I,73,737,"Computer Programming, Data Processing, And Other Computer Related Services"
+I,73,738,Miscellaneous Business Services
+I,75,751,"Automotive Rental And Leasing, Without Drivers"
+I,75,752,Automobile Parking
+I,75,753,Automotive Repair Shops
+I,75,754,"Automotive Services, Except Repair"
+I,76,762,Electrical Repair Shops
+I,76,763,"Watch, Clock, And Jewelry Repair"
+I,76,764,Reupholstery And Furniture Repair
+I,76,769,Miscellaneous Repair Shops And Related Services
+I,78,781,Motion Picture Production And Allied Services
+I,78,782,Motion Picture Distribution And Allied Services
+I,78,783,Motion Picture Theaters
+I,78,784,Video Tape Rental
+I,79,791,"Dance Studios, Schools, And Halls"
+I,79,792,"Theatrical Producers (except Motion Picture),"
+I,79,793,Bowling Centers
+I,79,794,Commercial Sports
+I,79,799,Miscellaneous Amusement And Recreation
+I,80,801,Offices And Clinics Of Doctors Of Medicine
+I,80,802,Offices And Clinics Of Dentists
+I,80,803,Offices And Clinics Of Doctors Of Osteopathy
+I,80,804,Offices And Clinics Of Other Health Practitioners
+I,80,805,Nursing And Personal Care Facilities
+I,80,806,Hospitals
+I,80,807,Medical And Dental Laboratories
+I,80,808,Home Health Care Services
+I,80,809,"Miscellaneous Health And Allied Services, Not"
+I,81,811,Legal Services
+I,82,821,Elementary And Secondary Schools
+I,82,822,"Colleges, Universities, Professional Schools, And"
+I,82,823,Libraries
+I,82,824,Vocational Schools
+I,82,829,"Schools And Educational Services, Not Elsewhere"
+I,83,832,Individual And Family Social Services
+I,83,833,Job Training And Vocational Rehabilitation
+I,83,835,Child Day Care Services
+I,83,836,Residential Care
+I,83,839,"Social Services, Not Elsewhere Classified"
+I,84,841,Museums And Art Galleries
+I,84,842,Arboreta And Botanical Or Zoological Gardens
+I,86,861,Business Associations
+I,86,862,Professional Membership Organizations
+I,86,863,Labor Unions And Similar Labor Organizations
+I,86,864,"Civic, Social, And Fraternal Associations"
+I,86,865,Political Organizations
+I,86,866,Religious Organizations
+I,86,869,"Membership Organizations, Not Elsewhere"
+I,87,871,"Engineering, Architectural, And Surveying"
+I,87,872,"Accounting, Auditing, And Bookkeeping Services"
+I,87,873,"Research, Development, And Testing Services"
+I,87,874,Management And Public Relations Services
+I,88,881,Private Households
+I,89,899,Miscellaneous Services
+J,91,911,Executive Offices
+J,91,912,Legislative Bodies
+J,91,913,Executive And Legislative Offices Combined
+J,91,919,"General Government, Not Elsewhere Classified"
+J,92,921,Courts
+J,92,922,Public Order And Safety
+J,93,931,"Public Finance, Taxation, And Monetary Policy"
+J,94,941,Administration Of Educational Programs
+J,94,943,Administration Of Public Health Programs
+J,94,944,"Administration Of Social, Human Resource And"
+J,94,945,"Administration Of Veteran's Affairs, Except"
+J,95,951,Administration Of Environmental Quality
+J,95,953,Administration Of Housing And Urban
+J,96,961,Administration Of General Economic Programs
+J,96,962,Regulation And Administration Of Transportation
+J,96,963,Regulation And Administration Of
+J,96,964,Regulation Of Agricultural Marketing And
+J,96,965,"Regulation, Licensing, And Inspection Of"
+J,96,966,Space Research And Technology
+J,97,971,National Security
+J,97,972,International Affairs
+J,99,999,Nonclassifiable Establishments
